@@ -1,0 +1,2 @@
+# Making git ignore java Class Files
+*.class
