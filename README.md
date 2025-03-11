@@ -6,3 +6,7 @@ This repository has been created only for the purpose of sharing college Assignm
 > > Roll no: CH.SC.U4CSE24102
 
 ![](https://img.shields.io/badge/maintained-yes-green?style=for-the-badge)
+![](https://img.shields.io/github/forks/agneay/23CSE111-OOPS?style=for-the-badge)
+![](https://img.shields.io/github/issues/agneay/23CSE111-OOPS?style=for-the-badge)
+![](https://img.shields.io/github/stars/agneay/23CSE111-OOPS?style=for-the-badge)
+![](https://img.shields.io/github/license/agneay/23CSE111-OOPS?style=for-the-badge)
